@@ -5,7 +5,7 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 ## Tasks for LearnIDE Environment Users
 
 1. Click the "OPEN IDE" button
-20 
+2. 
 ## Tasks for Local Environment Users
 
 1. Fork this repository.
@@ -17,6 +17,7 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 1. Take a look at the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image.
 2. Use the comments in `index.html` to create the elements necessary to recreate the album cover shown in <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a>. Also use `SOURCE.md` to copy and paste all necessary filler text.
 3. Open up `index.html` in the browser as well for a side by side comparison with <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> as you work. To open `index.html` from the IDE, follow [these steps](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).
+4. 78
 
 ***NOTE***: Clicking the blue `Open` button on the Learn.co lesson page or running the `learn open` command in your terminal will automatically fork and clone the repository and change into the appropriate directory.
 
