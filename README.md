@@ -5,7 +5,7 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 ## Tasks for LearnIDE Environment Users
 
 1. Click the "OPEN IDE" button
-
+20 
 ## Tasks for Local Environment Users
 
 1. Fork this repository.
